@@ -1,4 +1,4 @@
-# Cómo comenzar un proyecto de codificación
+# Cómo comenzar un proyecto de programación
 
 En 4Geeks entendemos que comenzar un proyecto es una de las cosas más difíciles de hacer. Hay muchas formas de comenzar a codificar un nuevo proyecto, tantas que es difícil saber cuál es la mejor o la "forma recomendada".
 
@@ -90,22 +90,3 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
 - Una vez que el proyecto haya terminado de descargarse, puedes abrir el editor de VSCode en esa carpeta, generalmente escribiendo `$ code .` en tu terminal (nota el punto `.` al final). Si ese comando no funciona, todavía puedes abrir VSCode, hacer clic en "abrir carpeta" y encontrar tu carpeta de proyecto.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
